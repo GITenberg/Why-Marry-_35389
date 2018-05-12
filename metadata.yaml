@@ -1,0 +1,28 @@
+_repo: Why-Marry-_35389
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Williams, Jesse Lynch
+    birthdate: 1871
+    deathdate: 1929
+    gutenberg_agent_id: '37371'
+    url: http://www.gutenberg.org/2009/agents/37371
+    wikipedia: http://en.wikipedia.org/wiki/Jesse_Lynch_Williams
+description: '"Originally published under title ''And so they were married''."'
+gutenberg_issued: '2011-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35389'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage -- Drama'
+- !lcsh 'American drama -- 20th century'
+- !lcc 'PS'
+title: Why Marry?
+url: http://www.gutenberg.org/ebooks/35389
